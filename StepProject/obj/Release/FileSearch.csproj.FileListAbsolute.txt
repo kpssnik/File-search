@@ -1,0 +1,6 @@
+F:\VSSolutions\StepProject\StepProject\obj\Release\FileSearch.csproj.CoreCompileInputs.cache
+F:\VSSolutions\StepProject\StepProject\bin\Release\FileSearch.exe.config
+F:\VSSolutions\StepProject\StepProject\bin\Release\FileSearch.exe
+F:\VSSolutions\StepProject\StepProject\bin\Release\FileSearch.pdb
+F:\VSSolutions\StepProject\StepProject\obj\Release\FileSearch.exe
+F:\VSSolutions\StepProject\StepProject\obj\Release\FileSearch.pdb

@@ -1,0 +1,14 @@
+F:\VS Solutions\StepProject\StepProject\bin\Debug\StepProject.exe.config
+F:\VS Solutions\StepProject\StepProject\bin\Debug\StepProject.exe
+F:\VS Solutions\StepProject\StepProject\bin\Debug\StepProject.pdb
+F:\VS Solutions\StepProject\StepProject\obj\Debug\StepProject.csprojAssemblyReference.cache
+F:\VS Solutions\StepProject\StepProject\obj\Debug\StepProject.csproj.CoreCompileInputs.cache
+F:\VS Solutions\StepProject\StepProject\obj\Debug\StepProject.exe
+F:\VS Solutions\StepProject\StepProject\obj\Debug\StepProject.pdb
+F:\VSSolutions\StepProject\StepProject\bin\Debug\StepProject.exe.config
+F:\VSSolutions\StepProject\StepProject\bin\Debug\StepProject.exe
+F:\VSSolutions\StepProject\StepProject\bin\Debug\StepProject.pdb
+F:\VSSolutions\StepProject\StepProject\obj\Debug\StepProject.csprojAssemblyReference.cache
+F:\VSSolutions\StepProject\StepProject\obj\Debug\StepProject.csproj.CoreCompileInputs.cache
+F:\VSSolutions\StepProject\StepProject\obj\Debug\StepProject.exe
+F:\VSSolutions\StepProject\StepProject\obj\Debug\StepProject.pdb

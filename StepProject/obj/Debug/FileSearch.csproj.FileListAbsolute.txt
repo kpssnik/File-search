@@ -1,0 +1,7 @@
+F:\VSSolutions\StepProject\StepProject\obj\Debug\FileSearch.csprojAssemblyReference.cache
+F:\VSSolutions\StepProject\StepProject\obj\Debug\FileSearch.csproj.CoreCompileInputs.cache
+F:\VSSolutions\StepProject\StepProject\bin\Debug\FileSearch.exe.config
+F:\VSSolutions\StepProject\StepProject\bin\Debug\FileSearch.exe
+F:\VSSolutions\StepProject\StepProject\bin\Debug\FileSearch.pdb
+F:\VSSolutions\StepProject\StepProject\obj\Debug\FileSearch.exe
+F:\VSSolutions\StepProject\StepProject\obj\Debug\FileSearch.pdb
